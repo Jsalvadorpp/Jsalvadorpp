@@ -2,6 +2,8 @@
 
 I'm a person that loves coding . From a young age I was always fascinated with technology. I started studying electronic engineering but during my college studies I found my passion in software development and programming . I'm always looking to learn new types of languages and tools to bring fast , robust , efficient solutions to solve any kind of problems.
 
+You can ask me anything. I am looking forward to get knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Jsalvadorpp.Jsalvadorpp)
 
 <!--START_SECTION:activity-->
