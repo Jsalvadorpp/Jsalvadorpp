@@ -1,6 +1,11 @@
-### Hi There!
+### Hi There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a person that loves coding . From a young age I was always fascinated with technology. I started studying electronic engineering but during my college studies I found my passion in software development and programming . I'm always looking to learn new types of languages and tools to bring fast , robust , efficient solutions to solve any kind of problems.
+
+![](https://visitor-badge.glitch.me/badge?page_id=Jsalvadorpp.Jsalvadorpp)
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ### Languages and Tools:
 
